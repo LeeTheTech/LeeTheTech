@@ -9,6 +9,4 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/LeeTheTech">
-  <img src="https://streak-stats.demolab.com/?user=LeeTheTech&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+[![LeeTheTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeeTheTech&show_icons=true&theme=tokyonight)](https://github.com/LeeTheTech)
