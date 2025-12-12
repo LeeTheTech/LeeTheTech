@@ -9,4 +9,4 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <b>My GitHub Stats</b>
 
-[![LeeTheTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeeTheTech&show_icons=true&theme=tokyonight)](https://github.com/LeeTheTech)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=LeeTheTech&theme=radical)](https://github.com/LeeTheTech)
